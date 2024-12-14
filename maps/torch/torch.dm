@@ -200,6 +200,7 @@
 	#include "../away/cowboy_bebop/swordfish.dm"
 	#include "../away/cowboy_bebop/truck.dm"
 	#include "../away/cowboy_bebop/truck_broken.dm"
+	#include "../away/sfv_dropship/delman.dm"
 	#include "../away/lighthouse/beacon_working.dm"
 	#include "../away/verne/verne.dm"
 	#include "../away/itv_providence/providence.dm"
@@ -209,6 +210,9 @@
 	#include "../away/ecoffice/ecoffice.dm"
 	#include "../away/constructed_station/main.dm"
 	#include "../away/snow_cage/snow_cage.dm"
+	#include "../away/rancho/farm.dm"
+	#include "../away/utility_shuttle_1/us1.dm"
+	#include "../away/utility_shuttle_2/us2.dm"
 
 //alternative future stuff
 	#include "../away/airfield/airfield.dm"
